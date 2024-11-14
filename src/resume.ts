@@ -101,7 +101,7 @@ let strtoObj:Resume = JSON.parse(getResumeFromLocl as string)
                         <div class="work-box">
                             <div class="work-img">
                                 <img src="../images/Vector (2).png" alt="">
-                                <p>2024</p>
+                                <p>${strtoObj.periodCompany}</p>
                             </div>
                             <div class="company-job">
                                 <h4>${strtoObj.lastJob}</h4>
