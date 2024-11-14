@@ -14,6 +14,12 @@
     .resume-body p{
         font-size: 13px;
     }
+    .education-img p{
+        font-size: 9px;
+    }
+    .work-img p{
+        font-size: 9px;
+    }
     .profile{
         padding-left: 20px;
     }
@@ -56,6 +62,15 @@
     }
     .resume-body p{
         font-size: 13px;
+    }
+    .resume-body p{
+        font-size: 13px;
+    }
+    .education-img p{
+        font-size: 9px;
+    }
+    .work-img p{
+        font-size: 9px;
     }
     .resume-body h3{
         font-size: 25px;
@@ -104,6 +119,12 @@
     }
     .resume-body p{
         font-size: 12px;
+    }
+    .education-img p{
+        font-size: 9px;
+    }
+    .work-img p{
+        font-size: 9px;
     }
     .resume-body h3{
         font-size: 22px;
@@ -163,6 +184,7 @@
     .resume-body p{
         font-size: 12px;
     }
+    
     .resume-body h3{
         font-size: 20px;
     }
@@ -184,6 +206,16 @@
     }
     .education-box p{
         font-size: 10px;
+    }
+    .education-img p{
+        font-size: 7px;
+        left: 7px;
+        bottom: 11px;
+    }
+    .work-img p{
+        font-size: 7px;
+        left: 7px;
+        bottom: 11px;
     }
     .resume-left{
         width: 250px;
@@ -279,6 +311,16 @@
     }
     .work-img img{
         width: 50px;
+    }
+    .education-img p{
+        font-size: 7px;
+        left: 7px;
+        bottom: 11px;
+    }
+    .work-img p{
+        font-size: 7px;
+        left: 7px;
+        bottom: 11px;
     }
    
 }
@@ -395,6 +437,16 @@
     .language-list li{
         font-size: 9px;
     }
+    .education-img p{
+        font-size: 7px;
+        left: 7px;
+        bottom: 11px;
+    }
+    .work-img p{
+        font-size: 7px;
+        left: 7px;
+        bottom: 11px;
+    }
    
 }
 @media only screen and (max-width:410px) {
@@ -459,16 +511,26 @@
         width: 150px;
     }
     .education-img img{
-        width: 40px;
+        width: 45px;
     }
     .work-img img{
-        width: 40px;
+        width: 45px;
     }
     .skill-list li{
         font-size: 8px;
     }
     .language-list li{
         font-size: 8px;
+    }
+    .education-img p{
+        font-size: 6px;
+        left: 7px;
+        bottom: 11px;
+    }
+    .work-img p{
+        font-size: 6px;
+        left: 7px;
+        bottom: 11px;
     }
    
 }
@@ -538,6 +600,16 @@
     }
     .work-img img{
         width: 40px;
+    }
+    .education-img p{
+        font-size: 5.5px;
+        left: 5px;
+        bottom: 11px;
+    }
+    .work-img p{
+        font-size: 5.5px;
+        left: 5px;
+        bottom: 11px;
     }
    
 }

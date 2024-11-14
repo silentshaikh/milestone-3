@@ -194,11 +194,11 @@ body{
 }
 .work-img p{
     position: absolute;
-    bottom: 8px;
-    left: 16px;
-    font-weight: 700;
-    color: white;
-    /* font-weight: 300; */
+    bottom: 15px;
+    left: 10px;
+    /* font-weight: 700; */
+    color: white;    
+    font-size: 9px;
     
 }
 .company-job h4{
@@ -246,10 +246,11 @@ body{
 }
 .education-img p{
     position: absolute;
-    bottom: 8px;
-    left: 16px;
-    font-weight: 700;
+    bottom: 15px;
+    left: 10px;
+    /* font-weight: 700; */
     color: white;    
+    font-size: 9px;
 }
 .school-college h4{
     font-weight: bold;
